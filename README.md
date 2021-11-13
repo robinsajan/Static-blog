@@ -1,1 +1,1 @@
-Design page for a blog app
+Design for a blog app
