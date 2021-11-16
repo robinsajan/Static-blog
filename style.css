@@ -636,6 +636,21 @@ footer .follow ul li a i:hover {
   .latest--content p {
     height: 140px;
   }
+  .search-page .answer-box {
+    column-count: 2;
+    top: 25%;
+    left: 5%;
+  }
+  .search-page .answer-box .answer {
+    width: 150px;
+    height: 150px;
+    margin-right: 1rem;
+  }
+  .search-page .answer-box .answer img {
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
+  }
 }
 @media (max-width: 400px) {
   .subscribe {
